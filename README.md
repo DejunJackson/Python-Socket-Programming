@@ -2,6 +2,17 @@
 
 This repo is a conglomerate of all of the resources, notes, and test programs on that I have found on Python socket programming.
 
+## Recommended Prerequisites
+
+In order to initially understand socket programming with python, I don't recommend looking at a lot of code, because it can be very confusing without some theory. So here is a list of topics I recommend you take a look at before diving into the code or atleast understand along the way:
+
+- Private IP addresses and public IP addresses
+- Ports/basic networking
+- CPU processing
+- Processes & Threads
+- Basics of a server
+- Basics of a client
+
 ## Resources
 
 ### 1.1 Echo Server:
