@@ -8,6 +8,7 @@ In order to initially understand socket programming with python, I don't recomme
 
 - Private IP addresses and public IP addresses
 - Ports/basic networking
+- Very basics of TCP sockets
 - CPU processing
 - Processes & Threads
 - Basics of a server
