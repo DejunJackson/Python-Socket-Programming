@@ -6,7 +6,6 @@ This repo is a conglomerate of all of the resources, notes, and test programs on
 
 - [Recommended Prerequisites](#recommended-prerequisites)
 - [Resources](#resources)
-- [To do](#to-do)
 - [Projects](#projects)
 
 
